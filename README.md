@@ -1,4 +1,3 @@
-Please respect my copyright and all code thank you.
 <!DOCTYPE html>
 <html lang="en">
 <head>
